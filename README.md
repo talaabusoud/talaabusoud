@@ -30,7 +30,7 @@
 ### [Rent It Out](#)
 - 📝 **Description**: Rent It Out is a backend API for a peer-to-peer rental platform, where users can list and rent everyday items, contributing to a circular economy by reducing the need for infrequent purchases.
 - 🛠️ **Tech Stack**: Node.js, MySQL, Git, Express.js
-- 📂 **Repository**: [https://github.com/talaabusoud/RentItOut](#)
+- 📂 **Repository**: [RentItOut](https://github.com/talaabusoud/RentItOut)
 
 ---
 
