@@ -23,6 +23,8 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=talaabusoud&show_icons=true&theme=dark)
 
+## 📊 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talaabusoud&langs_count=5&layout=compact&theme=dark&hide=prs&count_private=true&card_width=500)
 
 ---
 
